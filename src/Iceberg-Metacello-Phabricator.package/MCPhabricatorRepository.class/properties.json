@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "RafaelLuque 12/13/2018 07:58",
+	"super" : "MCGitBasedNetworkRepository",
+	"category" : "Iceberg-Metacello-Phabricator",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "MCPhabricatorRepository",
+	"type" : "normal"
+}
