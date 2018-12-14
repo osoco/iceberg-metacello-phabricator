@@ -1,3 +1,3 @@
 as yet unclassified
 scpUrl
-	^ 'ssh://git@phabricator.osoco.es/source/', projectPath, '.git'
+	^ 'ssh://git@phabricator.osoco.es/', projectPath, '.git'

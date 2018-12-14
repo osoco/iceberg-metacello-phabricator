@@ -1,3 +1,3 @@
 private - patches
 httpsUrl
-	^ 'http://phabricator.osoco.es/source/', projectPath, '.git'
+	^ 'http://phabricator.osoco.es/', projectPath, '.git'
